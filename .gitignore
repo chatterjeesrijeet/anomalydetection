@@ -1,0 +1,13 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+logs/
+data/
+
+# ignore anything in the venv file 
+venv/
+
+#mac specific system file
+.DS_Store
